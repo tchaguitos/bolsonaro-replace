@@ -1,9 +1,31 @@
 const names = ['Bolsonaro', 'Bolsomito'];
 const elements = [...document.getElementsByTagName('*')];
+
 const nicknames = [
-  'Bonoro', 'Bozonaro', 'Bolso', 'Bolodemilho', 'Jair bolar', 'Bonobo', 'Salnorabo',
-  'Bonaro', 'Boniro', 'Bono', 'Bonaldo', 'Coiso', 'Boçanaro', 'Bosoro', 'Bololó',
-  'Bolnossauro', 'Bolsomario'
+  'Bonoro',
+  'Bozonaro',
+  'Bolso',
+  'Bolodemilho',
+  'Jair bolar',
+  'Bonobo',
+  'Salnorabo',
+  'Bonaro',
+  'Boniro',
+  'Bono',
+  'Bonaldo',
+  'Coiso',
+  'Boçanaro',
+  'Bosoro',
+  'Bololó',
+  'Bolnossauro',
+  'Bolsomario',
+  'Biroliro',
+  'Trumpnaro',
+  'Bostonaro',
+  'Bololo',
+  'Bolovo',
+  'Birolito',
+  'Bolonharo'
 ];
 
 const getRandomPosition = array => Math.floor(Math.random() * array.length) - 1 || 6;
