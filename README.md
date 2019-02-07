@@ -5,7 +5,7 @@ Essa extensão é pra você que tá cansado de ver o nome do Bolsonaro por aí n
 - Bonoro
 - Bozonaro
 - Bolso
-- Bolodeminho
+- Bolodemilho
 - Jair bolar
 - Bonobo
 - Salnorabo
@@ -19,6 +19,14 @@ Essa extensão é pra você que tá cansado de ver o nome do Bolsonaro por aí n
 - Bololó
 - Bolnossauro
 - Bolsomario
+- Biroliro
+- Trumpnaro
+- Bostonaro
+- Bololo
+- Bolovo
+- Birolito
+- Bolonharo
+- Bonossauro
 
 Projeto inspirado no [loremipsum4president](https://github.com/pauladiniz/loremipsum4president). Agradecimentos ao [@filhodapoc](https://twitter.com/filhodapoc) pelo ícone.
 
