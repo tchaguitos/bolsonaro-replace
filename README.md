@@ -27,6 +27,9 @@ Essa extensão é pra você que tá cansado de ver o nome do Bonoro por aí nas 
 - Birolito
 - Bolonharo
 - Bonossauro
+- Biroliro
+- Bingulinho
+- Bonorinho
 
 Projeto inspirado no [loremipsum4president](https://github.com/pauladiniz/loremipsum4president). Agradecimentos ao [@filhodapoc](https://twitter.com/filhodapoc) pelo ícone.
 
