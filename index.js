@@ -4,6 +4,7 @@ const names = ['Bolsonaro','Bolsomito'],
         '0', // I DONT HAVE IDEA WHAT, BUT THIS FIX UNDEFINED RETURN IN getRandomNicknames func :3
         'Bonoro',
         'Bozonaro',
+        'Bozo',
         'Bolso',
         'Bolodemilho',
         'Jair bolar',
