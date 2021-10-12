@@ -1,7 +1,6 @@
 const names = ['Bolsonaro','Bolsomito'],
       elements = [...document.getElementsByTagName('*')],
       nicknames = [
-        '0', // I DONT HAVE IDEA WHAT, BUT THIS FIX UNDEFINED RETURN IN getRandomNicknames func :3
         'Bonoro',
         'Bozonaro',
         'Bozo',
@@ -39,7 +38,7 @@ const names = ['Bolsonaro','Bolsomito'],
         'Bolsonaro vagabundo',
         'Bananinha',
       ],
-      getRandomPosition = array => Math.floor(Math.random() * array.length) - 0 || 7,
+      getRandomPosition = array => Math.floor(Math.random() * array.length),
       getRandomNickname = array => array[getRandomPosition(array)],
       main = () => elements.forEach((element) => { // code by @pauladiniz - https://github.com/pauladiniz/loremipsum4president <- this girl is awesome <3
         let validNodes = [...element.childNodes].filter(n => n.nodeType === 3)
