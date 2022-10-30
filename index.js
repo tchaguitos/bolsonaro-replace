@@ -45,6 +45,7 @@ const names = ['Bolsonaro','Bolsomito'],
         'Tchutchuca do centrão',
         'Broxonaro',
         'Maçonaro',
+        'Embora'
       ],
       getRandomPosition = array => Math.floor(Math.random() * array.length),
       getRandomNickname = array => array[getRandomPosition(array)],
