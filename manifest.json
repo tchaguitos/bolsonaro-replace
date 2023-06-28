@@ -3,7 +3,7 @@
   "name": "Bolsonaro replace",
   "short_name": "bolsonaro-replace",
   "description": "Extensão que substitui Bolsonaro por apelidos dados pela internet.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "permissions": ["<all_urls>"],
   "content_scripts": [
     {
